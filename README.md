@@ -9,9 +9,3 @@ Commands:
 - `dump` to show all keys and values
 - `exit` to exit
 
----
-
-- [x] Commands
-- [x] Interpret commands
-- [x] Parse from string to Command
-- [x] Console in/out
